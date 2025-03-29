@@ -1,0 +1,19 @@
+Step 1: Bookmark these:
+
+> 1. chrome-extension://`Extension ID`/manifest.json
+
+> 2. chrome://kill
+
+> 3. chrome://hang
+
+Step 2. Name them A, B, And C
+
+Step 3:
+
+1. Press A, then B
+
+2. Reload the page
+
+3. Spam C
+
+To know if it worked the page will be white and the bar will be a loading icon
